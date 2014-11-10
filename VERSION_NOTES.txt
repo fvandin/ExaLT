@@ -1,0 +1,7 @@
+VERSION 1.1
+
+Release date: May 24, 2014
+
+Changes from version 1.0:
+- added -table parameter for computing p-values from table describing mutations in multiple genes on the same set of patients; this is much faster than running ExaLT on each gene separately;
+- fixed bug in Makefile

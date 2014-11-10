@@ -1,0 +1,6 @@
+patientID	survival_time	censoring_status	TP53	PIK3CA	PTEN
+pa1	5.2	1	1	0	1
+ce1	4.2	0	0	0	0
+pa2	6.2	1	1	0	1
+pa3	7.2	1	0	0	0
+ce2	6.4	0	0	1	0
